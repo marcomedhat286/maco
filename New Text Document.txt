@@ -1,0 +1,6 @@
+#include<iostrem>
+usingspacename
+void main ()
+{ 
+cout<<"hello";
+}
